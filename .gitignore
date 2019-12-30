@@ -1,0 +1,12 @@
+/build/
+
+*.class
+
+# package, library
+*.jar
+*.war
+
+# Eclipse
+.classpath
+.project
+.settings/
